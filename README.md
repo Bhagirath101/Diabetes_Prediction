@@ -1,0 +1,2 @@
+# Diabetes_Prediction
+This project involves the classification of diabetes in individuals using machine learning. It utilizes the PIMA Diabetes Dataset, consisting of health-related attributes. The data is preprocessed, standardized, and split into training and testing sets. A Support Vector Machine (SVM) classifier with a linear kernel is trained and evaluated for accuracy. The system can predict diabetes status for a given set of health metrics, helping identify whether a person is diabetic or not, making it a valuable tool for medical diagnosis and decision-making.
